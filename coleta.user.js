@@ -1,12 +1,12 @@
 // ==UserScript==
-// @name         Scavange
-// @version      0.7
-// @description  Auto scavange
-// @author       Victor Garé
+// @name         coleta
+// @version      0.1
+// @description  Auto coleta
+// @author       junior
 // @match https://*.tribalwars.com.br/*&screen=place&mode=scavenge*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tribalwars.com.br
 // @downloadURL https://raw.githubusercontent.com/juniorjt/tw/master/coleta.user.js
-// @updateURL   https://github.com/victorgare/juniorjt/raw/master/coleta.user.js
+// @updateURL   https://github.com/juniorjt/tw/raw/master/coleta.user.js
 // @run-at document-end
 // ==/UserScript==
 
